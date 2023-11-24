@@ -1,4 +1,10 @@
 ### Hi there 👋
+Hi. I'm studing various area, what I interested in.
+currently, I learning in Github's manual, data processing(image processing, CNN, etc)  and raspberry Pi(just Little),
+but I also interested in 3D modeling(Blender).
+so, just learning in various subject, and just only make small python project,
+but I hope to make help in other's project.
+have a nice day!
 
 <!--
 **kevin7827/kevin7827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
