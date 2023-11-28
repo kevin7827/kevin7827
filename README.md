@@ -13,7 +13,13 @@ have a nice day!
    2. blender: basic rigging, texturing, and rendering video -> (my github's profile image is make in blender)
    3. and basic C and java, both language are learned, but I haven't used for a long time.
 
+- I want to make...
+  1. 3d animation in blender. rigging and texturing is hard to learned, but I want to make my complete video.
+  2. data analyis. actually, I think find a specific subject's data and analysis is not easy...
+                   but I hope, and interested in this subject. so if I have a chance, I analysis, and show the result.
+  3. deep Learning. In my level, I just learn of various of this case, but when I got used to it, I start the project from design~and make it.
 
+  
 <!--
 **kevin7827/kevin7827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
